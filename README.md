@@ -1,6 +1,5 @@
 # SUSTENTACI-N_inteligencia_codigo
 
-```markdown
 # Análisis Comparativo: t-SNE + DBSCAN vs GMM en MNIST
 
 Este proyecto implementa y compara dos enfoques de clustering no supervisado, **t-SNE + DBSCAN** y **Gaussian Mixture Models (GMM)**, aplicados al dataset de dígitos manuscritos MNIST. El objetivo principal es evaluar la capacidad de estos algoritmos para descubrir la estructura latente en datos de alta dimensión y agruparlos de manera coherente con sus etiquetas reales, así como analizar su estabilidad y rendimiento.
@@ -71,4 +70,3 @@ Para ejecutar este análisis:
 3.  Ejecuta las celdas secuencialmente para replicar el análisis.
 
 --- 
-```
